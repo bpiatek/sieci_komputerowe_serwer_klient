@@ -1,0 +1,13 @@
+
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(‰Öóœûÿÿÿÿ8üÆßÒ›-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(èÇ»Ó8˜´ÕÒ›-
+ksquid:S2095-"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(§ð›à8üÆßÒ›-
+gsquid:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(šÇßºüÿÿÿÿ8¥¨£Ô›-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(õ”šñýÿÿÿÿ8¥¨£Ô›-
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(ƒñÜí8öþÕÒ›-
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(¸±«Ö8Ä ×Ò›-

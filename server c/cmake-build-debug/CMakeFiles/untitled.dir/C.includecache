@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/bartoszpiatek/Library/Mobile Documents/com~apple~CloudDocs/PROGRAMOWANIE/UAM/Sieci/server c/main.c
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+string.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+zconf.h
+-
+

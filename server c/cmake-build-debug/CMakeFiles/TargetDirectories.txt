@@ -1,0 +1,3 @@
+/Users/bartoszpiatek/Library/Mobile Documents/com~apple~CloudDocs/PROGRAMOWANIE/UAM/Sieci/server c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bartoszpiatek/Library/Mobile Documents/com~apple~CloudDocs/PROGRAMOWANIE/UAM/Sieci/server c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bartoszpiatek/Library/Mobile Documents/com~apple~CloudDocs/PROGRAMOWANIE/UAM/Sieci/server c/cmake-build-debug/CMakeFiles/untitled.dir
